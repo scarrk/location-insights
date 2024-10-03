@@ -1,2 +1,2 @@
 # location-insights
-Analysing location analytics datasets
+Collection of notebooks and scripts for analysing publicly available location data-sets.
